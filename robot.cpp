@@ -2,6 +2,8 @@
 #include <iostream>
 #include <string>
 #include <regex>
+#include <algorithm>
+#include <cstdlib>
 
 // Simple Vector2 class
 struct Vec2Di
